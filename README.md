@@ -19,7 +19,9 @@
 执行下面的脚本。如果你是开发者的话，可略过脚本，直接在【电脑终端】执行:
 `adb shell dpm set-device-owner me.yourbay.airfrozen/.main.core.mgmt.MDeviceAdminReceiver`
 
-脚本的下载地址是：[github.com/hyongbai/AirFrozenGranter](https://github.com/hyongbai/AirFrozenGranter/releases) 如不能访问，请使用360手机助手电脑版(等类似软件)安装驱动，进入电脑终端/命令行执行如上的命令。
+脚本的下载地址是：[github.com/hyongbai/AirFrozenGranter](https://github.com/hyongbai/AirFrozenGranter/releases) 如不能访问，请使用[【刷机精灵】](http://www.shuame.com/)(等类似电脑软件)安装驱动，进入【刷机精灵】→ 【其他】→ 【Adb命令行】执行如上的命令。截图如下:
+![image](media/shuame-page.png)
+![image](media/shuame-adb.png)
 
 #### 【4】
 如果提示`Success`或者`device owner is already set`之类的话，即表示成功。
