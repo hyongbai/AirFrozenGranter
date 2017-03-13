@@ -28,6 +28,9 @@
 
 如果提示`Not allowed to set the device owner because there are already several users on the device`的话，则表示手机上面有多个【用户】，请去【设置】→【用户】删除其他用户。如果仍然不行，则只能FactoryReset了。
 
+#### 【5】
+授权之后最好重启，另外一旦授权之后就无需再次使用adb授权了。
+
 
 ## 运行脚本
 
